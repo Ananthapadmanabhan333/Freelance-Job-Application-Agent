@@ -52,4 +52,4 @@ cd apps/web && npm run dev
 Lumina uses advanced stealth browsing to avoid detection but should be used responsibly. Always review AI-generated proposals before sending to maintain professional integrity.
 
 ---
-Built with ⚡ by the Lumina AI Team.
+Built by Ananthapadmanabhan 
